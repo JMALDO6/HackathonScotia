@@ -11,15 +11,15 @@ using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
 
-namespace Hackathon.App
+namespace Hackathon.App.Activities
 {
-	[Activity(Label = "SelectionActivity", MainLauncher =true)]
+	[Activity(Label = "SelectionActivity", MainLauncher =false)]
 	public class SelectionActivity : AppCompatActivity
     {
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
 			base.OnCreate(savedInstanceState);
-            SetContentView(Resource.Layout.activity_main);
+            SetContentView(Resource.Layout.Selection_main);
         }
 	}
 }

@@ -2399,8 +2399,8 @@ namespace Hackathon.App
 			// aapt resource value: 0x7f08005c
 			public const int action_mode_close_button = 2131230812;
 			
-			// aapt resource value: 0x7f0800b2
-			public const int action_settings = 2131230898;
+			// aapt resource value: 0x7f0800b3
+			public const int action_settings = 2131230899;
 			
 			// aapt resource value: 0x7f08009e
 			public const int action_text = 2131230878;
@@ -2597,14 +2597,14 @@ namespace Hackathon.App
 			// aapt resource value: 0x7f080061
 			public const int list_item = 2131230817;
 			
-			// aapt resource value: 0x7f0800b1
-			public const int masked = 2131230897;
+			// aapt resource value: 0x7f0800b2
+			public const int masked = 2131230898;
 			
 			// aapt resource value: 0x7f0800a2
 			public const int media_actions = 2131230882;
 			
-			// aapt resource value: 0x7f0800af
-			public const int message = 2131230895;
+			// aapt resource value: 0x7f0800b0
+			public const int message = 2131230896;
 			
 			// aapt resource value: 0x7f080031
 			public const int middle = 2131230769;
@@ -2656,6 +2656,9 @@ namespace Hackathon.App
 			
 			// aapt resource value: 0x7f080075
 			public const int radio = 2131230837;
+			
+			// aapt resource value: 0x7f0800af
+			public const int ratingBar = 2131230895;
 			
 			// aapt resource value: 0x7f08004a
 			public const int right = 2131230794;
@@ -2855,8 +2858,8 @@ namespace Hackathon.App
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800b0
-			public const int visible = 2131230896;
+			// aapt resource value: 0x7f0800b1
+			public const int visible = 2131230897;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
@@ -3102,13 +3105,15 @@ namespace Hackathon.App
 			
 			// aapt resource value: 0x7f04003c
 			public const int select_dialog_singlechoice_material = 2130968636;
-			public const int Selection_main = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int support_simple_spinner_dropdown_item = 2130968637;
+			public const int Selection_main = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int tooltip = 2130968638;
+			public const int support_simple_spinner_dropdown_item = 2130968638;
+			
+			// aapt resource value: 0x7f04003f
+			public const int tooltip = 2130968639;
 			
 			static Layout()
 			{

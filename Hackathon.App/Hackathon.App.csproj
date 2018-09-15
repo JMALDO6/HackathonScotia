@@ -63,7 +63,7 @@
     <Compile Include="Proxy\ServiceClient.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SelectionActivity.cs" />
+    <Compile Include="Activities\SelectionActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
