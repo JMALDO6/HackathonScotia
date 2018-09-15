@@ -8,7 +8,7 @@ using Android.Views;
 
 namespace Hackathon.App
 {
-	[Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
+	[Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = false)]
 	public class MainActivity : AppCompatActivity
 	{
 
